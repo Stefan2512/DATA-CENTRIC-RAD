@@ -15,11 +15,11 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-DROP DATABASE IF EXISTS `superheroes`;
+DROP DATABASE IF EXISTS `superheroes_2``;
 
-CREATE DATABASE `superheroes`;
+CREATE DATABASE `superheroes_2`;
 
-USE `superheroes`;
+USE `superheroes_2`;
 
 --
 -- Table structure for table `superhero_city_table`
